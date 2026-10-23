@@ -6,6 +6,7 @@ An interactive digital guestbook built for a university anniversary event. Visit
 Interface language: Korean. English labels are given below for reference.
 
 ![Guestbook writing screen](screenshot-write.png)
+![Bubble wall display](screenshot-wall.png)
 
 Overview
 
